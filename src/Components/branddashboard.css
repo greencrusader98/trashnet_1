@@ -1,0 +1,968 @@
+
+.branddashboard_branddashboard {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.branddashboard_branddashboard .desktop1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.3px;
+	height: 807.45px;
+	background: rgba(255,255,255,1.00);
+	border: 4px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.branddashboard_branddashboard .Login {
+	position: absolute;
+	left: 71.4px;
+	top: 527.1px;
+	width: 141.75px;
+	height: 29.400000000000002px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 25.200000000000003px;
+	font-weight: 400;
+	line-height: 29.53125px;
+}
+.branddashboard_branddashboard .Group1 {
+	position: absolute;
+	left: 18.900000000000002px;
+	top: 9.450000000000001px;
+	width: 332.85px;
+	height: 786.45px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 332.85px;
+	height: 786.45px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 312.90000000000003px;
+	height: 786.45px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 42px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .Title {
+	position: absolute;
+	left: 68.25px;
+	top: 145.95000000000002px;
+	width: 66.15px;
+	height: 23.1px;
+	color: rgba(255,255,255,0.70);
+	font-family: Inter;
+	font-size: 18.900000000000002px;
+	font-weight: 400;
+	line-height: 22.1484375px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI {
+	position: absolute;
+	left: 25.200000000000003px;
+	top: 186.9px;
+	width: 307.65000000000003px;
+	height: 344.40000000000003px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 307.65000000000003px;
+	height: 58.800000000000004px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.5px;
+	height: 58.800000000000004px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 10.5px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1 .Rectangle3 {
+	position: absolute;
+	left: 305.55px;
+	top: 11.55px;
+	width: 2.1px;
+	height: 35.7px;
+	background: rgba(0,240,255,1.00);
+	border-radius: 73.5px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1 .LI1_1 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 16.8px;
+	width: 119.7px;
+	height: 23.1px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1 .LI1_1 .Overview {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 77.7px;
+	height: 19.95px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1 .LI1_1 .Vector {
+	position: absolute;
+	left: 0px;
+	top: 2.1px;
+	width: 21.929824561403507%;
+	height: 90.9090909090909%;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_2 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 77.7px;
+	width: 108.15px;
+	height: 25.200000000000003px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_2 .Payouts {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 66.15px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_2 .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 24.271844660194176%;
+	height: 100%;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_3 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 138.6px;
+	width: 99.75px;
+	height: 25.200000000000003px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_3 .Ledger {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 57.75px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_3 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 26.31578947368421%;
+	height: 100%;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_4 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 199.5px;
+	width: 136.5px;
+	height: 25.200000000000003px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_4 .Statements {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 94.5px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_4 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 18.461538461538463%;
+	height: 100%;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_5 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 260.40000000000003px;
+	width: 138.6px;
+	height: 25.200000000000003px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_5 .Compliance {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 96.60000000000001px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_5 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 18.939393939393938%;
+	height: 100%;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_6 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 319.2px;
+	width: 110.25px;
+	height: 25.200000000000003px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_6 .Settings {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 68.25px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ULLI .LI1_6 .Vector_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 22.857142857142858%;
+	height: 100%;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ContactUs {
+	position: absolute;
+	left: 25.200000000000003px;
+	top: 586.95px;
+	width: 260.40000000000003px;
+	height: 153.3px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ContactUs .Rectangle4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 260.40000000000003px;
+	height: 153.3px;
+	background: rgba(255,255,255,0.40);
+	border-radius: 21px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ContactUs .Haveanyproblemswithmanageyourdashbord {
+	position: absolute;
+	left: 17.85px;
+	top: 31.5px;
+	width: 217.35000000000002px;
+	height: 35.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,0.80);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ContactUs .Rectangle5 {
+	position: absolute;
+	left: 28.35px;
+	top: 97.65px;
+	width: 196.35px;
+	height: 42px;
+	background: rgba(8,97,200,1.00);
+	border-radius: 10.5px;
+}
+.branddashboard_branddashboard .Group1 .Sidebar .ContactUs .ContactUs_1 {
+	position: absolute;
+	left: 68.25px;
+	top: 106.05000000000001px;
+	width: 116.55000000000001px;
+	height: 25.200000000000003px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .Group1 .Asset74x1 {
+	position: absolute;
+	left: 31.5px;
+	top: 36.75px;
+	width: 252px;
+	height: 92.4px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.branddashboard_branddashboard .EPRTARGET {
+	position: absolute;
+	left: 351.75px;
+	top: 128.1px;
+	width: 312.90000000000003px;
+	height: 202.65px;
+}
+.branddashboard_branddashboard .EPRTARGET .Rectangle8 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 307.65000000000003px;
+	height: 202.65px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 31.5px;
+	border: 4px solid rgba(21.000000648200512,187.00000405311584,102.00000151991844,1);
+}
+.branddashboard_branddashboard .EPRTARGET .Title_1 {
+	position: absolute;
+	left: 15.726544189453126px;
+	top: 32.550000000000004px;
+	width: 244.67339172363282px;
+	height: 31.5px;
+}
+.branddashboard_branddashboard .EPRTARGET .Title_1 .TotalEPRTarget {
+	position: absolute;
+	left: 53.9719482421875px;
+	top: 3.1500000000000004px;
+	width: 190.70137939453124px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .EPRTARGET .Title_1 .Rectangle9 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 35.98134155273438px;
+	height: 31.5px;
+	background: rgba(0,133,255,1.00);
+	border-radius: 5.25px;
+}
+.branddashboard_branddashboard .EPRTARGET ._100 {
+	position: absolute;
+	left: 19.926544189453125px;
+	top: 84px;
+	width: 200.5130859375px;
+	height: 60.900000000000006px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 50.400000000000006px;
+	font-weight: 400;
+	line-height: 59.0625px;
+}
+.branddashboard_branddashboard .EPRTARGET .MT {
+	position: absolute;
+	left: 112.38691406250001px;
+	top: 111.30000000000001px;
+	width: 200.5130859375px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .EPRTARGET .FY20222023 {
+	position: absolute;
+	left: 19.95px;
+	top: 162.75px;
+	width: 150.15px;
+	height: 18.900000000000002px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,133,255,1.00);
+	font-family: Inter;
+	font-size: 15.75px;
+	font-weight: 400;
+	line-height: 18.45703125px;
+}
+.branddashboard_branddashboard .Ledger_1 {
+	position: absolute;
+	left: 357px;
+	top: 362.25px;
+	width: 633.8828338623047px;
+	height: 365.40000000000003px;
+}
+.branddashboard_branddashboard .Ledger_1 .Rectangle8_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 633.8828338623047px;
+	height: 365.40000000000003px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 31.5px;
+	border: 4px solid rgba(21.000000648200512,187.00000405311584,102.00000151991844,1);
+}
+.branddashboard_branddashboard .Ledger_1 .PLASTICCREDITLEDGER {
+	position: absolute;
+	left: 53.550000000000004px;
+	top: 33.6px;
+	width: 286.65000000000003px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .Ledger_1 .NAME {
+	position: absolute;
+	left: 22.05px;
+	top: 91.35000000000001px;
+	width: 50.400000000000006px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Ledger_1 .SaahasZeroWaste {
+	position: absolute;
+	left: 22.05px;
+	top: 128.1px;
+	width: 122.85000000000001px;
+	height: 16.8px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 300;
+	line-height: 15.99609375px;
+}
+.branddashboard_branddashboard .Ledger_1 ._10MT {
+	position: absolute;
+	left: 206.85000000000002px;
+	top: 128.1px;
+	width: 36.75px;
+	height: 16.8px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.branddashboard_branddashboard .Ledger_1 .KARNATAKA {
+	position: absolute;
+	left: 343.35px;
+	top: 128.1px;
+	width: 80.85000000000001px;
+	height: 16.8px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.branddashboard_branddashboard .Ledger_1 .SaahasZeroWaste_1 {
+	position: absolute;
+	left: 22.05px;
+	top: 164.85px;
+	width: 122.85000000000001px;
+	height: 16.8px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 300;
+	line-height: 15.99609375px;
+}
+.branddashboard_branddashboard .Ledger_1 .ViewAll {
+	position: absolute;
+	left: 407.40000000000003px;
+	top: 325.5px;
+	width: 168px;
+	height: 29.400000000000002px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(21,187,102,1.00);
+	font-family: Inter;
+	font-size: 25.200000000000003px;
+	font-weight: 400;
+	line-height: 29.53125px;
+}
+.branddashboard_branddashboard .Ledger_1 .SaahasZeroWaste_2 {
+	position: absolute;
+	left: 22.05px;
+	top: 203.70000000000002px;
+	width: 122.85000000000001px;
+	height: 16.8px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 300;
+	line-height: 15.99609375px;
+}
+.branddashboard_branddashboard .Ledger_1 .QTY {
+	position: absolute;
+	left: 204.75px;
+	top: 91.35000000000001px;
+	width: 39.9px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Ledger_1 .LOCATION {
+	position: absolute;
+	left: 340.2px;
+	top: 91.35000000000001px;
+	width: 87.15px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .Ledger_1 .Group7 {
+	position: absolute;
+	left: 490.35px;
+	top: 122.85000000000001px;
+	width: 99.75px;
+	height: 26.25px;
+}
+.branddashboard_branddashboard .Ledger_1 .Group7 .buttonnew {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 99.75px;
+	height: 26.25px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 10.5px;
+}
+.branddashboard_branddashboard .Ledger_1 .Group7 .Viewdata {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 99.75px;
+	height: 26.25px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 12.600000000000001px;
+	font-weight: 400;
+	line-height: 14.765625px;
+}
+.branddashboard_branddashboard .Fund {
+	position: absolute;
+	left: 683.5500000000001px;
+	top: 128.1px;
+	width: 312.90000000000003px;
+	height: 202.65px;
+}
+.branddashboard_branddashboard .Fund .Rectangle8_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 307.65000000000003px;
+	height: 202.65px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 31.5px;
+	border: 4px solid rgba(21.000000648200512,187.00000405311584,102.00000151991844,1);
+}
+.branddashboard_branddashboard .Fund .Title_2 {
+	position: absolute;
+	left: 15.726544189453126px;
+	top: 32.550000000000004px;
+	width: 244.67339172363282px;
+	height: 31.5px;
+}
+.branddashboard_branddashboard .Fund .Title_2 .TotalEPRTarget_1 {
+	position: absolute;
+	left: 53.9719482421875px;
+	top: 3.1500000000000004px;
+	width: 190.70137939453124px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .Fund .Title_2 .Rectangle9_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 35.981405639648436px;
+	height: 31.5px;
+	background: rgba(0,133,255,1.00);
+	border-radius: 5.25px;
+}
+.branddashboard_branddashboard .Fund ._100_1 {
+	position: absolute;
+	left: 19.926544189453125px;
+	top: 84px;
+	width: 200.5130859375px;
+	height: 60.900000000000006px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 50.400000000000006px;
+	font-weight: 400;
+	line-height: 59.0625px;
+}
+.branddashboard_branddashboard .Fund .MT_1 {
+	position: absolute;
+	left: 112.38691406250001px;
+	top: 111.30000000000001px;
+	width: 200.5130859375px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .Fund .FY20222023_1 {
+	position: absolute;
+	left: 19.95px;
+	top: 162.75px;
+	width: 150.15px;
+	height: 18.900000000000002px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,133,255,1.00);
+	font-family: Inter;
+	font-size: 15.75px;
+	font-weight: 400;
+	line-height: 18.45703125px;
+}
+.branddashboard_branddashboard .stakeholderkyc {
+	position: absolute;
+	left: 1027.95px;
+	top: 118.65px;
+	width: 349.65000000000003px;
+	height: 520.8000000000001px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Rectangle8_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 349.65000000000003px;
+	height: 520.8000000000001px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 31.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Title_3 {
+	position: absolute;
+	left: 16.8px;
+	top: 34.65px;
+	width: 315px;
+	height: 31.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Title_3 .EXPLORESTAKEHOLDERS {
+	position: absolute;
+	left: 47.25px;
+	top: 3.1500000000000004px;
+	width: 267.75px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Title_3 .Rectangle9_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 31.5px;
+	height: 31.5px;
+	background: rgba(0,133,255,1.00);
+	border-radius: 5.25px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic {
+	position: absolute;
+	left: 33.6px;
+	top: 106.05000000000001px;
+	width: 197.4px;
+	height: 383.25px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group1_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 42px;
+	height: 42px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group1_1 .Rectangle13 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 42px;
+	height: 42px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 52.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group1_1 ._1 {
+	position: absolute;
+	left: 15.75px;
+	top: 8.4px;
+	width: 10.5px;
+	height: 25.200000000000003px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group2 {
+	position: absolute;
+	left: 0px;
+	top: 68.25px;
+	width: 42px;
+	height: 42px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group2 .Rectangle14 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 42px;
+	height: 42px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 52.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group2 ._2 {
+	position: absolute;
+	left: 13.65px;
+	top: 8.4px;
+	width: 13.65px;
+	height: 25.200000000000003px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group3 {
+	position: absolute;
+	left: 0px;
+	top: 136.5px;
+	width: 42px;
+	height: 42px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group3 .Rectangle15 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 42px;
+	height: 42px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 52.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group3 ._3 {
+	position: absolute;
+	left: 13.65px;
+	top: 8.4px;
+	width: 14.700000000000001px;
+	height: 25.200000000000003px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group4 {
+	position: absolute;
+	left: 0px;
+	top: 204.75px;
+	width: 42px;
+	height: 42px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group4 .Rectangle16 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 42px;
+	height: 42px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 52.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group4 ._4 {
+	position: absolute;
+	left: 13.65px;
+	top: 8.4px;
+	width: 14.700000000000001px;
+	height: 25.200000000000003px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group5 {
+	position: absolute;
+	left: 0px;
+	top: 273px;
+	width: 42px;
+	height: 42px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group5 .Rectangle17 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 42px;
+	height: 42px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 52.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group5 ._5 {
+	position: absolute;
+	left: 13.65px;
+	top: 8.4px;
+	width: 13.65px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group6 {
+	position: absolute;
+	left: 0px;
+	top: 341.25px;
+	width: 42px;
+	height: 42px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group6 .Rectangle18 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 42px;
+	height: 42px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 52.5px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .Group6 ._6 {
+	position: absolute;
+	left: 13.65px;
+	top: 8.4px;
+	width: 13.65px;
+	height: 25.200000000000003px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .JamesBond {
+	position: absolute;
+	left: 65.10000000000001px;
+	top: 8.4px;
+	width: 99.75px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .JonyyDep {
+	position: absolute;
+	left: 65.10000000000001px;
+	top: 76.65px;
+	width: 86.10000000000001px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .JamesCameron {
+	position: absolute;
+	left: 65.10000000000001px;
+	top: 144.9px;
+	width: 132.3px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .DinyDelems {
+	position: absolute;
+	left: 65.10000000000001px;
+	top: 213.15px;
+	width: 101.85000000000001px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .BradPit {
+	position: absolute;
+	left: 65.10000000000001px;
+	top: 281.40000000000003px;
+	width: 64.05px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.branddashboard_branddashboard .stakeholderkyc .Statistic .AnjelinaJolly {
+	position: absolute;
+	left: 65.10000000000001px;
+	top: 349.65000000000003px;
+	width: 108.15px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}

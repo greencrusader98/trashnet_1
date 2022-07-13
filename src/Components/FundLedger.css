@@ -1,0 +1,805 @@
+
+.FundLedger_FundLedger {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.FundLedger_FundLedger .desktop1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.3px;
+	height: 807.45px;
+	background: rgba(255,255,255,1.00);
+	border: 4px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.FundLedger_FundLedger .Group1 {
+	position: absolute;
+	left: 18.900000000000002px;
+	top: 9.450000000000001px;
+	width: 332.85px;
+	height: 786.45px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 332.85px;
+	height: 786.45px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 312.90000000000003px;
+	height: 786.45px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 42px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .Title {
+	position: absolute;
+	left: 68.25px;
+	top: 145.95000000000002px;
+	width: 66.15px;
+	height: 23.1px;
+	color: rgba(255,255,255,0.70);
+	font-family: Inter;
+	font-size: 18.900000000000002px;
+	font-weight: 400;
+	line-height: 22.1484375px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI {
+	position: absolute;
+	left: 31.5px;
+	top: 198.45000000000002px;
+	width: 301.35px;
+	height: 332.85px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1 {
+	position: absolute;
+	left: 23.1px;
+	top: 0px;
+	width: 278.25px;
+	height: 35.7px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1 .Rectangle3 {
+	position: absolute;
+	left: 276.15000000000003px;
+	top: 0px;
+	width: 2.1px;
+	height: 35.7px;
+	background: rgba(0,240,255,1.00);
+	border-radius: 73.5px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1 .LI1_1 {
+	position: absolute;
+	left: 0px;
+	top: 5.25px;
+	width: 119.7px;
+	height: 23.1px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1 .LI1_1 .Overview {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 77.7px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1 .LI1_1 .Vector {
+	position: absolute;
+	left: 0px;
+	top: 2.1px;
+	width: 21.929878101014253%;
+	height: 90.9090909090909%;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_2 {
+	position: absolute;
+	left: 0px;
+	top: 49.35px;
+	width: 262.5px;
+	height: 58.800000000000004px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_2 .Rectangle3_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.5px;
+	height: 58.800000000000004px;
+	border-radius: 10.5px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_2 .Payouts {
+	position: absolute;
+	left: 65.10000000000001px;
+	top: 16.8px;
+	width: 66.15px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_2 .Vector_1 {
+	position: absolute;
+	left: 23.1px;
+	top: 16.8px;
+	width: 10%;
+	height: 42.857142857142854%;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_3 {
+	position: absolute;
+	left: 23.1px;
+	top: 127.05000000000001px;
+	width: 99.75px;
+	height: 25.200000000000003px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_3 .Ledger {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 57.75px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_3 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 26.31578947368421%;
+	height: 100%;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_4 {
+	position: absolute;
+	left: 23.1px;
+	top: 187.95000000000002px;
+	width: 136.5px;
+	height: 25.200000000000003px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_4 .Statements {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 94.5px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_4 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 18.461538461538463%;
+	height: 100%;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_5 {
+	position: absolute;
+	left: 23.1px;
+	top: 248.85000000000002px;
+	width: 138.6px;
+	height: 25.200000000000003px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_5 .Compliance {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 96.60000000000001px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_5 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 18.939393939393938%;
+	height: 100%;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_6 {
+	position: absolute;
+	left: 23.1px;
+	top: 307.65000000000003px;
+	width: 110.25px;
+	height: 25.200000000000003px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_6 .Settings {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 68.25px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ULLI .LI1_6 .Vector_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 22.857142857142858%;
+	height: 100%;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ContactUs {
+	position: absolute;
+	left: 25.200000000000003px;
+	top: 586.95px;
+	width: 260.40000000000003px;
+	height: 153.3px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ContactUs .Rectangle4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 260.40000000000003px;
+	height: 153.3px;
+	background: rgba(255,255,255,0.40);
+	border-radius: 21px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ContactUs .Haveanyproblemswithmanageyourdashbord {
+	position: absolute;
+	left: 17.85px;
+	top: 31.5px;
+	width: 217.35000000000002px;
+	height: 35.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,0.80);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ContactUs .Rectangle5 {
+	position: absolute;
+	left: 28.35px;
+	top: 97.65px;
+	width: 196.35px;
+	height: 42px;
+	background: rgba(8,97,200,1.00);
+	border-radius: 10.5px;
+}
+.FundLedger_FundLedger .Group1 .Sidebar .ContactUs .ContactUs_1 {
+	position: absolute;
+	left: 68.25px;
+	top: 106.05000000000001px;
+	width: 116.55000000000001px;
+	height: 25.200000000000003px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.FundLedger_FundLedger .Group1 .Asset74x1 {
+	position: absolute;
+	left: 31.5px;
+	top: 36.75px;
+	width: 252px;
+	height: 92.4px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.FundLedger_FundLedger .FUNDDISTRIBUTIONLEDGER {
+	position: absolute;
+	left: 364.35px;
+	top: 94.5px;
+	width: 467.226383972168px;
+	height: 44.60679931640625px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.FundLedger_FundLedger .NAME {
+	position: absolute;
+	left: 378px;
+	top: 391.65000000000003px;
+	width: 102.9px;
+	height: 35.7px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .SaahasZeroWaste {
+	position: absolute;
+	left: 378px;
+	top: 436.8px;
+	width: 200.23988342285156px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 300;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .SaahasZeroWaste_1 {
+	position: absolute;
+	left: 378px;
+	top: 472.5px;
+	width: 200.23988342285156px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 300;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger ._3062022 {
+	position: absolute;
+	left: 556.5px;
+	top: 434.70000000000005px;
+	width: 82.95px;
+	height: 29.400000000000002px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger ._3062022_1 {
+	position: absolute;
+	left: 556.5px;
+	top: 470.40000000000003px;
+	width: 82.95px;
+	height: 29.400000000000002px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .BENGALURU {
+	position: absolute;
+	left: 689.85px;
+	top: 435.75px;
+	width: 112.35000000000001px;
+	height: 29.400000000000002px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .BENGALURU_1 {
+	position: absolute;
+	left: 689.85px;
+	top: 471.45000000000005px;
+	width: 112.35000000000001px;
+	height: 29.400000000000002px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .MLP {
+	position: absolute;
+	left: 835.8000000000001px;
+	top: 435.75px;
+	width: 131.78180122375488px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .MLP_1 {
+	position: absolute;
+	left: 835.8000000000001px;
+	top: 471.45000000000005px;
+	width: 131.78180122375488px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger ._12345678 {
+	position: absolute;
+	left: 968.1px;
+	top: 435.75px;
+	width: 131.78179321289062px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger ._12345678_1 {
+	position: absolute;
+	left: 968.1px;
+	top: 471.45000000000005px;
+	width: 131.78179321289062px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .Approved {
+	position: absolute;
+	left: 1134px;
+	top: 435.75px;
+	width: 131.78179321289062px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .Processing {
+	position: absolute;
+	left: 1134px;
+	top: 471.45000000000005px;
+	width: 131.78179321289062px;
+	height: 29.7378662109375px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 13.65px;
+	font-weight: 400;
+	line-height: 15.99609375px;
+}
+.FundLedger_FundLedger .DATE {
+	position: absolute;
+	left: 564.9px;
+	top: 391.65000000000003px;
+	width: 65.03517608642578px;
+	height: 35.31368408203125px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .CREDITSGENERATED {
+	position: absolute;
+	left: 689.85px;
+	top: 376.95px;
+	width: 142.05050354003907px;
+	height: 35.31368408203125px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .MATERIAL {
+	position: absolute;
+	left: 831.6px;
+	top: 392.7px;
+	width: 141.75px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .AMOUNT {
+	position: absolute;
+	left: 958.6500000000001px;
+	top: 392.7px;
+	width: 141.75px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .STATUS {
+	position: absolute;
+	left: 1134px;
+	top: 392.7px;
+	width: 141.75px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .TRANSACTIONID {
+	position: absolute;
+	left: 1243.2px;
+	top: 391.65000000000003px;
+	width: 148.05px;
+	height: 43.050000000000004px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Rectangle5546 {
+	position: absolute;
+	left: 348.6px;
+	top: 69.3px;
+	width: 619.5px;
+	height: 283.5px;
+	border-radius: 14.700000000000001px;
+}
+.FundLedger_FundLedger .Metrics {
+	position: absolute;
+	left: 364.35px;
+	top: 160.65px;
+	width: 247.8px;
+	height: 150.15px;
+	display: flex;
+	padding-right: 158.55px;
+	box-sizing: border-box;
+}
+.FundLedger_FundLedger .Metrics .chartmetric {
+	position: relative;
+	flex: none;
+	margin-right: 31.5px;
+	height: 150.15px;
+	align-self: stretch;
+	display: flex;
+	flex-direction: column;
+	padding-top: 14.700000000000001px;
+	padding-right: 31.5px;
+	padding-bottom: 13.65px;
+	padding-left: 28.35px;
+	box-sizing: border-box;
+	justify-content: space-between;
+	background: rgba(255,255,255,1.00);
+	border-radius: 11.55px;
+}
+.FundLedger_FundLedger .Metrics .chartmetric .TotalIncome {
+	position: relative;
+	flex: none;
+	height: 19.95px;
+	align-self: stretch;
+	color: rgba(161,160,189,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 700;
+	line-height: 19.6875px;
+}
+.FundLedger_FundLedger .Metrics .chartmetric ._1853252 {
+	position: relative;
+	flex: none;
+	width: 154.35px;
+	height: 36.75px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 30.450000000000003px;
+	font-weight: 400;
+	line-height: 35.68359375px;
+}
+.FundLedger_FundLedger .Metrics .chartmetric .percentagegrown {
+	position: relative;
+	flex: none;
+	width: 91.35000000000001px;
+	height: 33.6px;
+	display: flex;
+	padding-top: 7.3500000000000005px;
+	padding-right: 12.600000000000001px;
+	padding-bottom: 7.3500000000000005px;
+	padding-left: 12.600000000000001px;
+	box-sizing: border-box;
+	justify-content: center;
+	align-items: center;
+	background: rgba(220,245,232,1.00);
+	border-radius: 19.95px;
+}
+.FundLedger_FundLedger .Metrics .chartmetric .percentagegrown .iconsgrownup {
+	position: relative;
+	flex: none;
+	margin-right: 4.2px;
+	width: 18.900000000000002px;
+	height: 18.900000000000002px;
+}
+.FundLedger_FundLedger .Metrics .chartmetric .percentagegrown .iconsgrownup .Vector_6 {
+	position: absolute;
+	left: 1.5750000000000002px;
+	top: 3.1500000000000004px;
+	width: 83.33333333333334%;
+	height: 62.5%;
+}
+.FundLedger_FundLedger .Metrics .chartmetric .percentagegrown ._11 {
+	position: relative;
+	flex: none;
+	margin-right: 4.2px;
+	width: 43.050000000000004px;
+	height: 18.900000000000002px;
+	color: rgba(79,209,139,1.00);
+	font-family: Inter;
+	font-size: 15.75px;
+	font-weight: 400;
+	line-height: 18.45703125px;
+}
+.FundLedger_FundLedger .piechart {
+	position: absolute;
+	left: 601.65px;
+	top: 148.05px;
+	width: 292.0787384033203px;
+	height: 152.0392822265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 {
+	position: absolute;
+	left: 157.5px;
+	top: 28.35px;
+	width: 134.5787223815918px;
+	height: 120.8715087890625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 .Ellipse2533 {
+	position: absolute;
+	left: 0px;
+	top: 2.28072509765625px;
+	width: 16.82234230041504px;
+	height: 10.64278564453125px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 50%;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 .Ellipse2534 {
+	position: absolute;
+	left: 0px;
+	top: 47.89266357421875px;
+	width: 16.82234230041504px;
+	height: 10.64278564453125px;
+	background: rgba(87,154,255,1.00);
+	border-radius: 50%;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 .Ellipse2535 {
+	position: absolute;
+	left: 0px;
+	top: 91.223876953125px;
+	width: 16.82234230041504px;
+	height: 10.64278564453125px;
+	background: rgba(129,70,255,1.00);
+	border-radius: 50%;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 .Collector {
+	position: absolute;
+	left: 30.03989181518555px;
+	top: 0px;
+	width: 72.09574356079102px;
+	height: 12.923510742187501px;
+	color: rgba(124,124,130,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 ._40 {
+	position: absolute;
+	left: 26.435115051269534px;
+	top: 19.005102539062502px;
+	width: 36.04787178039551px;
+	height: 12.923510742187501px;
+	color: rgba(31,30,61,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 ._20 {
+	position: absolute;
+	left: 27.63670463562012px;
+	top: 64.617041015625px;
+	width: 34.84627819061279px;
+	height: 12.923510742187501px;
+	color: rgba(31,30,61,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 ._30 {
+	position: absolute;
+	left: 27.63670463562012px;
+	top: 107.94825439453126px;
+	width: 36.04787178039551px;
+	height: 12.923510742187501px;
+	color: rgba(31,30,61,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 .Recycler {
+	position: absolute;
+	left: 27.63670463562012px;
+	top: 45.6119384765625px;
+	width: 68.49095878601075px;
+	height: 12.923510742187501px;
+	color: rgba(124,124,130,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004334 .Manufacturer {
+	position: absolute;
+	left: 27.63670463562012px;
+	top: 88.943408203125px;
+	width: 106.94201774597168px;
+	height: 12.923510742187501px;
+	color: rgba(124,124,130,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004333 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 148.65453186035157px;
+	height: 152.0392822265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004333 .Group1000004331 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 148.65453186035157px;
+	height: 152.0392822265625px;
+}
+.FundLedger_FundLedger .piechart .Group1000004333 .Group1000004331 .Ellipse2536 {
+	position: absolute;
+	left: 0px;
+	top: 22.8052001953125px;
+	width: 127.22872238159181px;
+	height: 129.23382568359375px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 50%;
+}
+.FundLedger_FundLedger .piechart .Group1000004333 .Group1000004331 .Ellipse2538 {
+	position: absolute;
+	left: 0px;
+	top: 22.8052001953125px;
+	width: 127.22872238159181px;
+	height: 129.23382568359375px;
+	background: rgba(242,110,110,1.00);
+	border-radius: 50%;
+}
+.FundLedger_FundLedger .piechart .Group1000004333 .Group1000004331 .Ellipse2539 {
+	position: absolute;
+	left: 41.910630798339845px;
+	top: -0.00025634765625px;
+	width: 106.7438850402832px;
+	height: 138.52283935546876px;
+}
+.FundLedger_FundLedger .piechart .Group1000004333 .Group1000004331 .Ellipse2540 {
+	position: absolute;
+	left: 0px;
+	top: 53.90965576171875px;
+	width: 28.698472595214845px;
+	height: 67.824462890625px;
+}

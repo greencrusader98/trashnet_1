@@ -1,0 +1,162 @@
+
+.login_login {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.login_login .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1420.8px;
+	height: 3118.08px;
+}
+.login_login .Asset64x2 {
+	position: absolute;
+	left: 99.84px;
+	top: 207.35999999999999px;
+	width: 1159.68px;
+	height: 380.15999999999997px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.login_login .Rectangle4 {
+	position: absolute;
+	left: 88.32px;
+	top: 2039.04px;
+	width: 387.84px;
+	height: 138.24px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 136.32px;
+}
+.login_login .Login {
+	position: absolute;
+	left: 26.88px;
+	top: 2054.4px;
+	width: 518.4px;
+	height: 107.52px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 72px;
+}
+.login_login .ForgotPassword {
+	position: absolute;
+	left: 645.12px;
+	top: 2054.4px;
+	width: 564.48px;
+	height: 107.52px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(21,187,102,1.00);
+	font-family: Inter;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 72px;
+}
+.login_login .outlineuser2 {
+	position: absolute;
+	left: 410.88px;
+	top: 675.8399999999999px;
+	width: 606.72px;
+	height: 606.72px;
+}
+.login_login .outlineuser2 .shape {
+	position: absolute;
+	left: 75.84px;
+	top: 75.84px;
+	width: 75%;
+	height: 75%;
+}
+.login_login .Rectangle5 {
+	position: absolute;
+	left: 99.84px;
+	top: 1501.44px;
+	width: 1094.3999999999999px;
+	height: 161.28px;
+	background: rgba(231,231,231,1.00);
+	border-radius: 38.4px;
+	border: 2px solid rgba(21.000000648200512,187.00000405311584,102.00000151991844,1);
+	box-sizing: border-box;
+}
+.login_login .Rectangle3 {
+	position: absolute;
+	left: 99.84px;
+	top: 1816.32px;
+	width: 1094.3999999999999px;
+	height: 161.28px;
+	background: rgba(231,231,231,1.00);
+	border-radius: 38.4px;
+	border: 2px solid rgba(21.000000648200512,187.00000405311584,102.00000151991844,1);
+	box-sizing: border-box;
+}
+.login_login .Username {
+	position: absolute;
+	left: 126.72px;
+	top: 1528.32px;
+	width: 518.4px;
+	height: 107.52px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 100;
+	font-style: italic;
+	line-height: 63px;
+}
+.login_login .Password {
+	position: absolute;
+	left: 126.72px;
+	top: 1843.1999999999998px;
+	width: 518.4px;
+	height: 107.52px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 53.76px;
+	font-weight: 100;
+	font-style: italic;
+	line-height: 63px;
+}
+.login_login .Username_1 {
+	position: absolute;
+	left: 99.84px;
+	top: 1393.9199999999998px;
+	width: 518.4px;
+	height: 107.52px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 72px;
+}
+.login_login .Password_1 {
+	position: absolute;
+	left: 99.84px;
+	top: 1708.8px;
+	width: 518.4px;
+	height: 107.52px;
+	display: flex;
+	align-items: center;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 61.44px;
+	font-weight: 400;
+	line-height: 72px;
+}

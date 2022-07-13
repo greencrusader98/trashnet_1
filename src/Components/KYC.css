@@ -1,0 +1,670 @@
+
+.KYC_KYC {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.KYC_KYC .desktop1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1434.3px;
+	height: 807.45px;
+	background: rgba(255,255,255,1.00);
+	border: 4px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.KYC_KYC .Asset64x1 {
+	position: absolute;
+	left: 34.65px;
+	top: 35.7px;
+	width: 233.10000000000002px;
+	height: 66.15px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.KYC_KYC .ViewLedger {
+	position: absolute;
+	left: 282.45px;
+	top: 527.1px;
+	width: 168px;
+	height: 29.400000000000002px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 25.200000000000003px;
+	font-weight: 400;
+	line-height: 29.53125px;
+}
+.KYC_KYC .Group2 {
+	position: absolute;
+	left: 12.600000000000001px;
+	top: 10.5px;
+	width: 332.85px;
+	height: 786.45px;
+}
+.KYC_KYC .Group2 .Sidebar {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 332.85px;
+	height: 786.45px;
+}
+.KYC_KYC .Group2 .Sidebar .Rectangle1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 312.90000000000003px;
+	height: 786.45px;
+	background: rgba(21,187,102,1.00);
+	border-radius: 42px;
+}
+.KYC_KYC .Group2 .Sidebar .Title {
+	position: absolute;
+	left: 68.25px;
+	top: 145.95000000000002px;
+	width: 66.15px;
+	height: 23.1px;
+	color: rgba(255,255,255,0.70);
+	font-family: Inter;
+	font-size: 18.900000000000002px;
+	font-weight: 400;
+	line-height: 22.1484375px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI {
+	position: absolute;
+	left: 25.200000000000003px;
+	top: 190.05px;
+	width: 307.65000000000003px;
+	height: 341.25px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 307.65000000000003px;
+	height: 58.800000000000004px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1 .Rectangle3 {
+	position: absolute;
+	left: 305.55px;
+	top: 8.4px;
+	width: 2.1px;
+	height: 35.7px;
+	background: rgba(0,240,255,1.00);
+	border-radius: 73.5px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1 .LI1_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.5px;
+	height: 58.800000000000004px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1 .LI1_1 .Rectangle3_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 262.5px;
+	height: 58.800000000000004px;
+	border-radius: 10.5px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1 .LI1_1 .Overview {
+	position: absolute;
+	left: 71.4px;
+	top: 13.65px;
+	width: 77.7px;
+	height: 19.95px;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1 .LI1_1 .Vector {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 15.75px;
+	width: 10%;
+	height: 35.714285714285715%;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_2 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 74.55px;
+	width: 108.15px;
+	height: 25.200000000000003px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_2 .Payouts {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 66.15px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_2 .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 24.271844660194176%;
+	height: 100%;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_3 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 135.45000000000002px;
+	width: 99.75px;
+	height: 25.200000000000003px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_3 .Ledger {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 57.75px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_3 .Vector_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 26.31578947368421%;
+	height: 100%;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_4 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 196.35px;
+	width: 136.5px;
+	height: 25.200000000000003px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_4 .Statements {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 94.5px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_4 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 18.461538461538463%;
+	height: 100%;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_5 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 257.25px;
+	width: 138.6px;
+	height: 25.200000000000003px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_5 .Compliance {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 96.60000000000001px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_5 .Vector_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 18.939393939393938%;
+	height: 100%;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_6 {
+	position: absolute;
+	left: 29.400000000000002px;
+	top: 316.05px;
+	width: 110.25px;
+	height: 25.200000000000003px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_6 .Settings {
+	position: absolute;
+	left: 42px;
+	top: 0px;
+	width: 68.25px;
+	height: 19.95px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 16.8px;
+	font-weight: 400;
+	line-height: 19.6875px;
+}
+.KYC_KYC .Group2 .Sidebar .ULLI .LI1_6 .Vector_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 22.857142857142858%;
+	height: 100%;
+}
+.KYC_KYC .Group2 .Sidebar .ContactUs {
+	position: absolute;
+	left: 25.200000000000003px;
+	top: 586.95px;
+	width: 260.40000000000003px;
+	height: 153.3px;
+}
+.KYC_KYC .Group2 .Sidebar .ContactUs .Rectangle4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 260.40000000000003px;
+	height: 153.3px;
+	background: rgba(255,255,255,0.40);
+	border-radius: 21px;
+}
+.KYC_KYC .Group2 .Sidebar .ContactUs .Haveanyproblemswithmanageyourdashbord {
+	position: absolute;
+	left: 17.85px;
+	top: 31.5px;
+	width: 217.35000000000002px;
+	height: 35.7px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,0.80);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.KYC_KYC .Group2 .Sidebar .ContactUs .Rectangle5 {
+	position: absolute;
+	left: 28.35px;
+	top: 97.65px;
+	width: 196.35px;
+	height: 42px;
+	background: rgba(8,97,200,1.00);
+	border-radius: 10.5px;
+}
+.KYC_KYC .Group2 .Sidebar .ContactUs .ContactUs_1 {
+	position: absolute;
+	left: 68.25px;
+	top: 106.05000000000001px;
+	width: 116.55000000000001px;
+	height: 25.200000000000003px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Group2 .Asset74x1 {
+	position: absolute;
+	left: 39.9px;
+	top: 36.75px;
+	width: 252px;
+	height: 92.4px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.KYC_KYC .Frame1 {
+	position: absolute;
+	left: 353.85px;
+	top: 180.6px;
+	width: 1032.15px;
+	height: 568.0500000000001px;
+}
+.KYC_KYC .Frame1 .SaahasZeroWaste1 {
+	position: absolute;
+	left: 49.35px;
+	top: 48.300000000000004px;
+	width: 203.70000000000002px;
+	height: 203.70000000000002px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.KYC_KYC .Frame1 .SaahasZeroWaste {
+	position: absolute;
+	left: 357px;
+	top: 96.60000000000001px;
+	width: 459.90000000000003px;
+	height: 52.5px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 25.200000000000003px;
+	font-weight: 400;
+	line-height: 29.53125px;
+}
+.KYC_KYC .Frame1 .BengaluruKarnataka {
+	position: absolute;
+	left: 357px;
+	top: 135.45000000000002px;
+	width: 239.4px;
+	height: 42px;
+	color: rgba(140,121,121,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone {
+	position: absolute;
+	left: 356.98846435546875px;
+	top: 177.09803466796876px;
+	width: 649.9615356445313px;
+	height: 255.690380859375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .Collector {
+	position: absolute;
+	left: 168.17188110351563px;
+	top: 0px;
+	width: 481.78965454101564px;
+	height: 42.18841552734375px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone ._10MTday {
+	position: absolute;
+	left: 168.01153564453125px;
+	top: 53.90196533203125px;
+	width: 159.6px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .PvtLtd {
+	position: absolute;
+	left: 169.0730712890625px;
+	top: 105.8074951171875px;
+	width: 88.17660827636719px;
+	height: 42.18841552734375px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .ViewonMap {
+	position: absolute;
+	left: 169.06153564453126px;
+	top: 169.40196533203127px;
+	width: 158.8231384277344px;
+	height: 42px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone ._2348024468361 {
+	position: absolute;
+	left: 168.01153564453125px;
+	top: 213.50196533203126px;
+	width: 287.2557174682617px;
+	height: 42.18841552734375px;
+	color: rgba(0,0,0,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 500;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .Role {
+	position: absolute;
+	left: 0px;
+	top: 1.081787109375px;
+	width: 78.17719116210938px;
+	height: 40.025097656250004px;
+	color: rgba(140,121,121,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .ProcessingCapacity {
+	position: absolute;
+	left: 0px;
+	top: 37.800000000000004px;
+	width: 120.88201904296875px;
+	height: 39.9px;
+	color: rgba(140,121,121,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .Type {
+	position: absolute;
+	left: 0.01153564453125px;
+	top: 105.35196533203126px;
+	width: 71.81393737792969px;
+	height: 40.025097656250004px;
+	color: rgba(140,121,121,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .SiteLocation {
+	position: absolute;
+	left: 1.06153564453125px;
+	top: 144.20196533203125px;
+	width: 110.90253295898438px;
+	height: 40.025097656250004px;
+	color: rgba(140,121,121,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .EmailCityStateCountryPhone .GSTIN {
+	position: absolute;
+	left: 1.06153564453125px;
+	top: 214.55196533203127px;
+	width: 89.99468994140625px;
+	height: 40.025097656250004px;
+	color: rgba(140,121,121,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .RATINGS {
+	position: absolute;
+	left: 24.150000000000002px;
+	top: 268.8px;
+	width: 126.56556701660156px;
+	height: 34.616162109375004px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 ._90 {
+	position: absolute;
+	left: 187.95000000000002px;
+	top: 294.3519653320313px;
+	width: 82.95px;
+	height: 34.65px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(21,187,102,1.00);
+	font-family: Inter;
+	font-size: 27.3px;
+	font-weight: 900;
+	line-height: 31.9921875px;
+}
+.KYC_KYC .Frame1 .Approval {
+	position: absolute;
+	left: 166.95000000000002px;
+	top: 267.75px;
+	width: 126.56556701660156px;
+	height: 34.616162109375004px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(0,35,68,1.00);
+	font-family: Inter;
+	font-size: 21px;
+	font-weight: 400;
+	line-height: 24.609375px;
+}
+.KYC_KYC .Frame1 .Stars {
+	position: absolute;
+	left: 13.65px;
+	top: 297.15000000000003px;
+	width: 157.9364959716797px;
+	height: 28.12569580078125px;
+}
+.KYC_KYC .Frame1 .Stars .Star1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 28.12569580078125px;
+	height: 28.12569580078125px;
+	background: rgba(21,187,102,1.00);
+}
+.KYC_KYC .Frame1 .Stars .Star2 {
+	position: absolute;
+	left: 32.45271606445313px;
+	top: 0px;
+	width: 28.12569580078125px;
+	height: 28.12569580078125px;
+	background: rgba(21,187,102,1.00);
+}
+.KYC_KYC .Frame1 .Stars .Star3 {
+	position: absolute;
+	left: 64.90543212890626px;
+	top: 0px;
+	width: 28.12569580078125px;
+	height: 28.12569580078125px;
+	background: rgba(21,187,102,1.00);
+}
+.KYC_KYC .Frame1 .Stars .Star4 {
+	position: absolute;
+	left: 97.35814819335938px;
+	top: 0px;
+	width: 28.12569580078125px;
+	height: 28.12569580078125px;
+	background: rgba(21,187,102,1.00);
+}
+.KYC_KYC .Frame1 .Stars .Star5 {
+	position: absolute;
+	left: 129.8108642578125px;
+	top: 0px;
+	width: 28.12569580078125px;
+	height: 28.12569580078125px;
+	background: rgba(197,197,197,1.00);
+}
+.KYC_KYC .Frame1 .Group23 {
+	position: absolute;
+	left: 58.800000000000004px;
+	top: 367.5px;
+	width: 170.1px;
+	height: 36.75px;
+}
+.KYC_KYC .Frame1 .Group23 .Rectangle2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 170.1px;
+	height: 36.75px;
+	border-radius: 10.5px;
+}
+.KYC_KYC .Frame1 .Group23 .DownloadFiles {
+	position: absolute;
+	left: 12.600000000000001px;
+	top: 9.450000000000001px;
+	width: 108.15px;
+	height: 17.85px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.KYC_KYC .Frame1 .Group23 .outlinearrowcircledown {
+	position: absolute;
+	left: 133.35px;
+	top: 6.300000000000001px;
+	width: 25.200000000000003px;
+	height: 25.200000000000003px;
+}
+.KYC_KYC .Frame1 .Group23 .outlinearrowcircledown .shape {
+	position: absolute;
+	left: 3.1500000000000004px;
+	top: 3.1500000000000004px;
+	width: 75%;
+	height: 75%;
+}
+.KYC_KYC .Frame1 .Group24 {
+	position: absolute;
+	left: 58.800000000000004px;
+	top: 425.25px;
+	width: 170.1px;
+	height: 36.75px;
+}
+.KYC_KYC .Frame1 .Group24 .Rectangle2_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 170.1px;
+	height: 36.75px;
+	border-radius: 10.5px;
+}
+.KYC_KYC .Frame1 .Group24 .ViewActivity {
+	position: absolute;
+	left: 37.800000000000004px;
+	top: 9.450000000000001px;
+	width: 94.5px;
+	height: 17.85px;
+	color: rgba(255,255,255,1.00);
+	font-family: Inter;
+	font-size: 14.700000000000001px;
+	font-weight: 400;
+	line-height: 17.2265625px;
+}
+.KYC_KYC .Rectangle5547 {
+	position: absolute;
+	left: 355.95px;
+	top: 144.9px;
+	width: 1017.45px;
+	height: 550.2px;
+	background: rgba(217,217,217,0.00);
+	border-radius: 59.85px;
+	border: 4px solid rgba(21.000000648200512,187.00000405311584,102.00000151991844,1);
+	box-sizing: border-box;
+}
